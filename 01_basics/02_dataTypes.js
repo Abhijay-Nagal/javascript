@@ -1,0 +1,5 @@
+console.log(typeof null)
+console.log(typeof undefined)
+console.log(typeof 1)
+console.log(typeof "Abhijay")
+console.log(typeof true)
